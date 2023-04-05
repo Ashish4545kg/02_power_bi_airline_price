@@ -1,1 +1,1 @@
-# 02_power_bi_airline_price
+# 02_Power_Bi_Airline_Price
